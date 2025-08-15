@@ -82,13 +82,22 @@
 
 #44444444444444444444444444444444444444444444444444444444444444444444444444444444444
 
-idade = int(input("Digite a sua idade: "))
+#idade = int(input("Digite a sua idade: "))
 
-if idade <=12:
-    print("Voce e crianca")
-elif idade >13 and idade <=17:
-    print("Voce e adolescente")
-elif idade >18 and idade <=64:
-    print("Voce e adulto")
-else:
-    print("Voce e idoso")
+#if idade <=12:
+ #   print("Voce e crianca")
+#elif idade >13 and idade <=17:
+  #  print("Voce e adolescente")
+#elif idade >18 and idade <=64:
+#    print("Voce e adulto")
+#else:
+#    print("Voce e idoso")
+
+#5555555555555555555555555555555555555555555555555555555555555555555555555555555555
+
+#for numeros in range (11):
+    #print(numeros)
+
+#666666666666666666666666666666666666666666666666666666666666666666666666666666666666
+
+
