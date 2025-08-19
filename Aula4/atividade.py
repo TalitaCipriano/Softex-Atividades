@@ -3,6 +3,8 @@
 #for
 #break (pausa)
 #while (loop infinito)
+#range(contagem) utiliZA ate 3 elemntos (start, stop,step) 
+#exemplo: fazer uma lista de 1 a 20, pulando 2 numeros (1,20,2)
 
 
 #nota01_aluno = float(input("Informe a primeira nota: "))
@@ -82,13 +84,62 @@
 
 #44444444444444444444444444444444444444444444444444444444444444444444444444444444444
 
-idade = int(input("Digite a sua idade: "))
+#idade = int(input("Digite a sua idade: "))
 
-if idade <=12:
-    print("Voce e crianca")
-elif idade >13 and idade <=17:
-    print("Voce e adolescente")
-elif idade >18 and idade <=64:
-    print("Voce e adulto")
-else:
-    print("Voce e idoso")
+#if idade <=12:
+   # print("Voce e crianca")
+#elif idade >13 and idade <=17:
+   #ce e adulto")
+#e:
+  #  print("Voce e idoso")
+
+#5555555555555555555555555555555555555555555555555555555555555555555555555
+
+#for numero in range (1,11):
+    #print (numero)
+
+#6666666666666666666666666666666666666666666666666666666666666666666666666
+
+#numero = int(input("Digite um numero: "))
+
+#print(numero*1)
+#print(numero*2)
+#print(numero*3)
+#print(numero*4)
+#print(numero*5)
+#print(numero*6)
+#print(numero*7)
+#print(numero*8)
+#print(numero*9)
+#print(numero*10)
+
+#777777777777777777777777777777777777777777777777777777777777777777777777777
+
+#numero = int(input("Digite um numero: "))
+
+
+
+#while condição: (loop infinito)
+    #print("Dentro do while")
+
+count = 0
+#while True:
+    #print("Exemplo")
+    #count+=1
+   # if count == 5:
+    #  break
+    
+   
+#exemplo 2
+#count = 1
+#while count <=6:
+#   print("exemplo 2")
+  # count +=1
+
+#exemplo 3
+count = 0
+while count <=6:
+   count +=1
+   if count == 3:
+      continue
+   print(count)
